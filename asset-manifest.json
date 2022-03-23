@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/experiment-webchat-react17/static/css/main.8257b8ec.css",
-    "main.js": "/experiment-webchat-react17/static/js/main.5ed44738.js",
+    "main.js": "/experiment-webchat-react17/static/js/main.baef8236.js",
     "static/js/787.3ba24301.chunk.js": "/experiment-webchat-react17/static/js/787.3ba24301.chunk.js",
     "index.html": "/experiment-webchat-react17/index.html",
     "static/media/index.cjs": "/experiment-webchat-react17/static/media/index.cd351d7c31d0d3fccf96.cjs",
     "main.8257b8ec.css.map": "/experiment-webchat-react17/static/css/main.8257b8ec.css.map",
-    "main.5ed44738.js.map": "/experiment-webchat-react17/static/js/main.5ed44738.js.map",
+    "main.baef8236.js.map": "/experiment-webchat-react17/static/js/main.baef8236.js.map",
     "787.3ba24301.chunk.js.map": "/experiment-webchat-react17/static/js/787.3ba24301.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8257b8ec.css",
-    "static/js/main.5ed44738.js"
+    "static/js/main.baef8236.js"
   ]
 }
