@@ -1,17 +1,17 @@
 import './App.css';
 import ReactWebChat, { createDirectLine } from 'botframework-webchat';
+import { memo, useEffect, useState } from 'react';
 
 function App() {
-  const directLine = createDirectLine({
-    token:
-      '...'
-  });
+  const [directLine, setDirectLine] = useState();
 
-  return (
-    <div className="app">
-      <ReactWebChat directLine={directLine} />
-    </div>
-  );
+  useEffect(() => {
+    const token = prompt('Please enter Direct Line token');
+
+    setDirectLine(createDirectLine({ token }));
+  }, [setDirectLine]);
+
+  return <div className="app">{!!directLine && <ReactWebChat directLine={directLine} />}</div>;
 }
 
-export default App;
+export default memo(App);
