@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/experiment-webchat-react17/static/css/main.e6c13ad2.css",
+    "main.js": "/experiment-webchat-react17/static/js/main.cfc0962a.js",
+    "static/js/787.3ba24301.chunk.js": "/experiment-webchat-react17/static/js/787.3ba24301.chunk.js",
+    "index.html": "/experiment-webchat-react17/index.html",
+    "static/media/index.cjs": "/experiment-webchat-react17/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.e6c13ad2.css.map": "/experiment-webchat-react17/static/css/main.e6c13ad2.css.map",
+    "main.cfc0962a.js.map": "/experiment-webchat-react17/static/js/main.cfc0962a.js.map",
+    "787.3ba24301.chunk.js.map": "/experiment-webchat-react17/static/js/787.3ba24301.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cfc0962a.js"
+  ]
+}
